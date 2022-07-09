@@ -1,0 +1,15 @@
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\bin\Debug\net6.0\HelloConsole001.exe
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\bin\Debug\net6.0\HelloConsole001.deps.json
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\bin\Debug\net6.0\HelloConsole001.runtimeconfig.json
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\bin\Debug\net6.0\HelloConsole001.dll
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\bin\Debug\net6.0\HelloConsole001.pdb
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\obj\Debug\net6.0\HelloConsole001.csproj.AssemblyReference.cache
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\obj\Debug\net6.0\HelloConsole001.GeneratedMSBuildEditorConfig.editorconfig
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\obj\Debug\net6.0\HelloConsole001.AssemblyInfoInputs.cache
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\obj\Debug\net6.0\HelloConsole001.AssemblyInfo.cs
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\obj\Debug\net6.0\HelloConsole001.csproj.CoreCompileInputs.cache
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\obj\Debug\net6.0\HelloConsole001.dll
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\obj\Debug\net6.0\refint\HelloConsole001.dll
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\obj\Debug\net6.0\HelloConsole001.pdb
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\obj\Debug\net6.0\HelloConsole001.genruntimeconfig.cache
+E:\МИЛЛИОН с АНАЛИТИКОЙ\ОБУЧЕНИЕ\Лекции\HelloConsole001\obj\Debug\net6.0\ref\HelloConsole001.dll
